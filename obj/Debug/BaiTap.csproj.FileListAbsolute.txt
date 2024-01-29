@@ -1,0 +1,7 @@
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\bin\Debug\BaiTap.exe.config
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\bin\Debug\BaiTap.exe
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\bin\Debug\BaiTap.pdb
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\obj\Debug\BaiTap.exe
+D:\C#\Projects\Buoi1_NgonNguCSharp\BaiTap\obj\Debug\BaiTap.pdb
